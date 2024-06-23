@@ -1,6 +1,6 @@
 <template>
   <div class="content">
-    <h2 @click="toRoutes('compositionAPI')">1、compositionAPI</h2>
+    <h2 @click="toRoutes('compositionAPI')">1、compositionAPI1</h2>
     <h2 @click="toRoutes('teleport')">2、teleport</h2>
   </div>
 </template>
